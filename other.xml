@@ -7,35 +7,30 @@
             <id />
           </State>
           <State>
-            <id>Code SmellPHP</id>
+            <id>CSS</id>
           </State>
           <State>
             <id>Code StylePHP</id>
           </State>
           <State>
-            <id>GeneralPHP</id>
+            <id>Data flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>Naming conventionsJavaScript</id>
           </State>
           <State>
             <id>PHP</id>
           </State>
           <State>
-            <id>PHPDocPHP</id>
+            <id>Probable bugsJavaScript</id>
           </State>
           <State>
-            <id>Probable bugsPHP</id>
-          </State>
-          <State>
-            <id>UndefinedPHP</id>
-          </State>
-          <State>
-            <id>UnusedPHP</id>
+            <id>XPath</id>
           </State>
         </expanded-state>
-        <selected-state>
-          <State>
-            <id>PhpUnnecessaryFullyQualifiedNameInspection</id>
-          </State>
-        </selected-state>
       </profile-state>
     </entry>
     <entry key="Project Default">
