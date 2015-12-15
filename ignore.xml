@@ -17,14 +17,6 @@
       <language id="Perforce" ENABLE="true" NEW_FILE="true" />
       <language id="Team Foundation" ENABLE="true" NEW_FILE="true" />
     </languages>
-    <userTemplates>
-      <template name="Example user template">### Example user template
-
-# IntelliJ project files
-.idea
-*.iml
-out
-gen</template>
-    </userTemplates>
+    <userTemplates />
   </component>
 </application>

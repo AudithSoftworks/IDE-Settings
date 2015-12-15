@@ -1,12 +1,95 @@
 <application>
   <component name="ProjectManager">
     <defaultProject>
+      <component name="ComposerSettings">
+        <pharPath>/usr/bin/composer</pharPath>
+      </component>
       <component name="Encoding">
         <file url="PROJECT" charset="UTF-8" />
       </component>
-      <component name="PhpDebugGeneral" xdebug_debug_port="54321" />
-      <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 5.6" />
-      <component name="PhpXdebugProxy" port="9000" />
+      <component name="InspectionProjectProfileManager">
+        <profile version="1.0">
+          <option name="myName" value="Project Default" />
+          <option name="myLocal" value="true" />
+          <inspection_tool class="PhpMissingBreakStatementInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+          <inspection_tool class="PhpMissingParentConstructorInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+          <inspection_tool class="PhpTraditionalSyntaxArrayLiteralInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+          <inspection_tool class="PhpUnnecessaryFullyQualifiedNameInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+            <option name="IGNORE_IF_IMPORT_IS_NECESSARY" value="true" />
+          </inspection_tool>
+          <inspection_tool class="SpellCheckingInspection" enabled="false" level="TYPO" enabled_by_default="false">
+            <option name="processCode" value="true" />
+            <option name="processLiterals" value="true" />
+            <option name="processComments" value="true" />
+          </inspection_tool>
+        </profile>
+        <option name="PROJECT_PROFILE" value="Project Default" />
+        <option name="USE_PROJECT_PROFILE" value="true" />
+        <version value="1.0" />
+      </component>
+      <component name="JsBowerSettings">
+        <exe-path>/usr/local/bin/bower</exe-path>
+        <config-path />
+      </component>
+      <component name="PhpDebugGeneral" xdebug_debug_port="65535" />
+      <component name="PhpUnit">
+        <phpunit_settings>
+          <PhpUnitSettings load_method="CUSTOM_LOADER" custom_loader_path="$USER_HOME$/Projects/Basis/vendor/autoload.php" phpunit_phar_path="vendor/bin/phpunit" />
+        </phpunit_settings>
+      </component>
+      <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+      <component name="ProjectDictionaryState">
+        <dictionary name="shehi" />
+      </component>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State>
+                <id />
+              </State>
+              <State>
+                <id>BashSupport</id>
+              </State>
+              <State>
+                <id>Blade files</id>
+              </State>
+              <State>
+                <id>CSS</id>
+              </State>
+              <State>
+                <id>Code style issuesCSS</id>
+              </State>
+              <State>
+                <id>Cucumber</id>
+              </State>
+              <State>
+                <id>HTML</id>
+              </State>
+              <State>
+                <id>PHP</id>
+              </State>
+              <State>
+                <id>PHPDocPHP</id>
+              </State>
+              <State>
+                <id>Probable bugsCSS</id>
+              </State>
+              <State>
+                <id>Probable bugsPHP</id>
+              </State>
+              <State>
+                <id>Spelling</id>
+              </State>
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>PhpMissingParentCallMagicInspection</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+      </component>
       <component name="ProjectLevelVcsManager" settingsEditedManually="false">
         <OptionsSetting value="true" id="Add" />
         <OptionsSetting value="true" id="Remove" />
@@ -18,8 +101,45 @@
         <ConfirmationsSetting value="0" id="Remove" />
       </component>
       <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php.debug" />
+        <property name="options.lastSelected" value="Errors" />
+        <property name="options.splitter.main.proportions" value="0.3" />
+        <property name="options.splitter.details.proportions" value="0.2" />
+        <property name="JavaScriptLanguageLevel" value="ES5" />
+        <property name="JavaScriptPreferStrict" value="true" />
+        <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+        <property name="last_opened_file_path" value="$USER_HOME$/Projects/Basis/vendor/autoload.php" />
+        <property name="settings.editor.selected.configurable" value="Errors" />
         <property name="settings.editor.splitter.proportion" value="0.2" />
+      </component>
+      <component name="SvnConfiguration">
+        <configuration>$USER_HOME$/.subversion</configuration>
+      </component>
+      <component name="VagrantProjectSettings">
+        <option name="instanceFolder" value="" />
+        <option name="provider" value="" />
+      </component>
+      <component name="VcsContentAnnotationSettings">
+        <option name="myLimit" value="2678400000" />
+      </component>
+      <component name="VcsManagerConfiguration">
+        <option name="myTodoPanelSettings">
+          <TodoPanelSettings />
+        </option>
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ScopeChooserConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
       </component>
     </defaultProject>
   </component>
