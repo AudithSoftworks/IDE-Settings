@@ -7,30 +7,53 @@
             <id />
           </State>
           <State>
-            <id>CSS</id>
+            <id>BashSupport</id>
           </State>
           <State>
-            <id>Code StylePHP</id>
+            <id>Control flow issuesJavaScript</id>
           </State>
           <State>
-            <id>Data flow issuesJavaScript</id>
+            <id>General</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>Ignore</id>
+          </State>
+          <State>
+            <id>Ini Files</id>
+          </State>
+          <State>
+            <id>JSON</id>
           </State>
           <State>
             <id>JavaScript</id>
           </State>
           <State>
-            <id>Naming conventionsJavaScript</id>
+            <id>JavaScript validity issuesJavaScript</id>
           </State>
           <State>
             <id>PHP</id>
           </State>
           <State>
-            <id>Probable bugsJavaScript</id>
+            <id>Probable bugsPHP</id>
           </State>
           <State>
-            <id>XPath</id>
+            <id>SQL</id>
+          </State>
+          <State>
+            <id>XML</id>
+          </State>
+          <State>
+            <id>XSLT</id>
           </State>
         </expanded-state>
+        <selected-state>
+          <State>
+            <id>JSJQueryEfficiency</id>
+          </State>
+        </selected-state>
       </profile-state>
     </entry>
     <entry key="Project Default">

@@ -33,6 +33,9 @@
       <option name="INDENT_SIZE" value="4" />
     </indentOptions>
   </codeStyleSettings>
+  <codeStyleSettings language="JavaScript">
+    <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
+  </codeStyleSettings>
   <codeStyleSettings language="PHP">
     <option name="KEEP_BLANK_LINES_IN_DECLARATIONS" value="0" />
     <option name="KEEP_BLANK_LINES_IN_CODE" value="0" />
