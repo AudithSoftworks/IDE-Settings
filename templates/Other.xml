@@ -1,5 +1,5 @@
-<templateSet group="Comments">
-  <template name="pylon" value="/*&#10;|------------------------------&#10;| $END$&#10;|------------------------------&#10;*/" description="Nice comment" toReformat="true" toShortenFQNames="true">
+<templateSet group="Other">
+  <template name="pylon" value="/*&#10;|----------------------------------------------&#10;| $END$&#10;|----------------------------------------------&#10;*/" description="Fancy comment block" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="HTML_TEXT" value="true" />
       <option name="HTML" value="true" />
