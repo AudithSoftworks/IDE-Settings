@@ -10,22 +10,16 @@
             <id>BashSupport</id>
           </State>
           <State>
-            <id>Control flow issuesJavaScript</id>
-          </State>
-          <State>
-            <id>General</id>
+            <id>Code quality toolsJavaScript</id>
           </State>
           <State>
             <id>GeneralJavaScript</id>
           </State>
           <State>
-            <id>Ignore</id>
+            <id>GeneralPHP</id>
           </State>
           <State>
-            <id>Ini Files</id>
-          </State>
-          <State>
-            <id>JSON</id>
+            <id>Internationalization issues</id>
           </State>
           <State>
             <id>JavaScript</id>
@@ -37,23 +31,9 @@
             <id>PHP</id>
           </State>
           <State>
-            <id>Probable bugsPHP</id>
-          </State>
-          <State>
-            <id>SQL</id>
-          </State>
-          <State>
-            <id>XML</id>
-          </State>
-          <State>
-            <id>XSLT</id>
+            <id>Potentially confusing code constructsJavaScript</id>
           </State>
         </expanded-state>
-        <selected-state>
-          <State>
-            <id>JSJQueryEfficiency</id>
-          </State>
-        </selected-state>
       </profile-state>
     </entry>
     <entry key="Project Default">
