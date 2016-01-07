@@ -34,11 +34,6 @@
             <id>Potentially confusing code constructsJavaScript</id>
           </State>
         </expanded-state>
-        <selected-state>
-          <State>
-            <id>Spelling</id>
-          </State>
-        </selected-state>
       </profile-state>
     </entry>
     <entry key="Project Default">
