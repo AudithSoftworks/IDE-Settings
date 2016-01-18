@@ -1,9 +1,0 @@
-<application>
-  <component name="WebServers">
-    <option name="servers">
-      <webServer id="8fed820a-8d3b-4278-9257-017ca9f52c22" name="http://basis.audith.org/" url="http://basis.audith.org/">
-        <fileTransfer accessType="LOCAL" />
-      </webServer>
-    </option>
-  </component>
-</application>
