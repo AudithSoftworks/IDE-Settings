@@ -7,33 +7,17 @@
             <id />
           </State>
           <State>
-            <id>BashSupport</id>
-          </State>
-          <State>
-            <id>Code quality toolsJavaScript</id>
-          </State>
-          <State>
             <id>GeneralJavaScript</id>
-          </State>
-          <State>
-            <id>GeneralPHP</id>
-          </State>
-          <State>
-            <id>Internationalization issues</id>
           </State>
           <State>
             <id>JavaScript</id>
           </State>
-          <State>
-            <id>JavaScript validity issuesJavaScript</id>
-          </State>
-          <State>
-            <id>PHP</id>
-          </State>
-          <State>
-            <id>Potentially confusing code constructsJavaScript</id>
-          </State>
         </expanded-state>
+        <selected-state>
+          <State>
+            <id>JavaScript</id>
+          </State>
+        </selected-state>
       </profile-state>
     </entry>
     <entry key="Project Default">
@@ -176,23 +160,42 @@
     <option name="RENAME_SEARCH_NON_CODE_FOR_FIELD" value="true" />
   </component>
   <component name="RecentTaskRepositories">
-    <JIRA shared="false" url="https://audith.atlassian.net">
-      <option name="apiType" />
+    <JIRA shared="false" url="http://labs.elit-internet.com/jira">
+      <option name="apiType" value="REST_2_0" />
       <commitMessageFormat>{id} {summary}</commitMessageFormat>
-      <password>dfccdfc5dfd2dfe7dfdfdfc6dfcedfcfdfd8df9bdf9adf9bdf99</password>
-      <option name="jiraVersion" />
+      <password>dfdedfe3dfccdfe0dfe6dfd2dfc8dffedf9cdffddf9cdfc7</password>
+      <option name="jiraVersion" value="7.0.5" />
       <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
       <option name="searchQuery" value="assignee = currentUser() and resolution = Unresolved order by updated" />
       <option name="shouldFormatCommitMessage" value="false" />
       <option name="useHttpAuthentication" value="true" />
       <option name="useProxy" value="false" />
       <username>shehi</username>
     </JIRA>
-    <GitHub shared="false" url="github.com">
+    <JIRA shared="false" url="https://audith.atlassian.net">
+      <option name="apiType" />
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <password>dfccdfc5dfd2dfe7dfdfdfc6dfcedfcfdfd8df9bdf9adf9bdf99</password>
+      <option name="jiraVersion" />
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="searchQuery" value="assignee = currentUser() and resolution = Unresolved order by updated" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="true" />
+      <option name="useProxy" value="false" />
+      <username>shehi</username>
+    </JIRA>
+    <GitHub shared="false" url="http://github.com">
+      <option name="assignedIssuesOnly" value="false" />
       <commitMessageFormat>{id} {summary}</commitMessageFormat>
       <password />
       <token>df9edfcfdf9edfc9df92dfc8dfc9df9ddfc8dfcbdfcbdfcedf9fdfc9df9ddf9bdf9edfc8df99dfc8df9bdf9fdf92dfcfdfc8df9adfcfdf9ddfcedfc9df9cdfccdfcfdfc8df98dfccdf9bdfcbdfc8dfc8</token>
       <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
       <option name="repoAuthor" value="AudithSoftworks" />
       <option name="repoName" value="Basis" />
       <option name="shouldFormatCommitMessage" value="false" />
