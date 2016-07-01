@@ -10,7 +10,6 @@
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="asd" type="PLAIN_TEXT" />
       <mapping pattern=".env.dev.example" type="PLAIN_TEXT" />
-      <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern=".env.live.example" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
