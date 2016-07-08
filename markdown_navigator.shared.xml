@@ -5,7 +5,7 @@
         <provider providerId="com.vladsch.idea.multimarkdown.editor.javafx.html.panel" providerName="JavaFX WebView" />
       </PanelProvider>
     </PreviewSettings>
-    <ParserSettings parsingTimeout="1000">
+    <ParserSettings parsingTimeout="2000">
       <PegdownExtensions>
         <option name="ABBREVIATIONS" value="false" />
         <option name="ANCHORLINKS" value="true" />
@@ -29,7 +29,7 @@
         <option name="WIKILINKS" value="true" />
       </PegdownExtensions>
       <ParserOptions>
-        <option name="EMOJI_SHORTCUTS" value="true" />
+        <option name="EMOJI_SHORTCUTS" value="false" />
         <option name="GITBOOK_URL_ENCODING" value="false" />
         <option name="GITHUB_EMOJI_URL" value="false" />
         <option name="GITHUB_WIKI_LINKS" value="true" />
