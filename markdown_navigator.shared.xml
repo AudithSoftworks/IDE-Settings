@@ -30,6 +30,7 @@
       </PegdownExtensions>
       <ParserOptions>
         <option name="EMOJI_SHORTCUTS" value="false" />
+        <option name="FLEXMARK_FRONT_MATTER" value="false" />
         <option name="GITBOOK_URL_ENCODING" value="false" />
         <option name="GITHUB_EMOJI_URL" value="false" />
         <option name="GITHUB_WIKI_LINKS" value="true" />
