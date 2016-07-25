@@ -1,5 +1,5 @@
 <templateSet group="Other">
-  <template name="pylon" value="/*&#10;|----------------------------------------------&#10;| $END$&#10;|----------------------------------------------&#10;*/" description="Fancy comment block" toReformat="true" toShortenFQNames="true">
+  <template name="pylon" value="/*------------------------------------&#10; | $END$&#10; *-----------------------------------*/" description="Fancy comment block" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="OTHER" value="true" />
     </context>
