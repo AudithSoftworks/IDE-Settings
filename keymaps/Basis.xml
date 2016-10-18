@@ -1,4 +1,7 @@
 <keymap version="1" name="Basis" parent="Default for XWin">
+  <action id="ActivateDockerToolWindow">
+    <keyboard-shortcut first-keystroke="alt 3" />
+  </action>
   <action id="EditorActions">
     <keyboard-shortcut first-keystroke="shift alt subtract" />
   </action>
