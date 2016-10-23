@@ -6,14 +6,14 @@
   </component>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter home="/usr/bin/php" id="5f5d9e34-8545-48d1-9c0e-335bf3af61d6" name="PHP 7" debugger_id="php.debugger.XDebug" />
+      <interpreter home="/usr/bin/php" id="a9e886fc-1c28-4a56-b03f-2512d06081bd" name="PHP 7" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP 7">
-        <phpinfo binary_type="PHP" php_cli="/usr/bin/php7.0" path_separator=":" remote_host="127.0.0.1" version="7.0.4-7ubuntu2">
-          <additional_php_ini>/etc/php/7.0/cli/conf.d/10-mysqlnd.ini, /etc/php/7.0/cli/conf.d/10-opcache.ini, /etc/php/7.0/cli/conf.d/10-pdo.ini, /etc/php/7.0/cli/conf.d/15-xml.ini, /etc/php/7.0/cli/conf.d/20-calendar.ini, /etc/php/7.0/cli/conf.d/20-ctype.ini, /etc/php/7.0/cli/conf.d/20-curl.ini, /etc/php/7.0/cli/conf.d/20-dom.ini, /etc/php/7.0/cli/conf.d/20-exif.ini, /etc/php/7.0/cli/conf.d/20-fileinfo.ini, /etc/php/7.0/cli/conf.d/20-ftp.ini, /etc/php/7.0/cli/conf.d/20-geoip.ini, /etc/php/7.0/cli/conf.d/20-gettext.ini, /etc/php/7.0/cli/conf.d/20-iconv.ini, /etc/php/7.0/cli/conf.d/20-json.ini, /etc/php/7.0/cli/conf.d/20-memcache.ini, /etc/php/7.0/cli/conf.d/20-memcached.ini, /etc/php/7.0/cli/conf.d/20-mysqli.ini, /etc/php/7.0/cli/conf.d/20-pdo_mysql.ini, /etc/php/7.0/cli/conf.d/20-pdo_pgsql.ini, /etc/php/7.0/cli/conf.d/20-pgsql.ini, /etc/php/7.0/cli/conf.d/20-phar.ini, /etc/php/7.0/cli/conf.d/20-posix.ini, /etc/php/7.0/cli/conf.d/20-readline.ini, /etc/php/7.0/cli/conf.d/20-shmop.ini, /etc/php/7.0/cli/conf.d/20-simplexml.ini, /etc/php/7.0/cli/conf.d/20-sockets.ini, /etc/php/7.0/cli/conf.d/20-sysvmsg.ini, /etc/php/7.0/cli/conf.d/20-sysvsem.ini, /etc/php/7.0/cli/conf.d/20-sysvshm.ini, /etc/php/7.0/cli/conf.d/20-tokenizer.ini, /etc/php/7.0/cli/conf.d/20-wddx.ini, /etc/php/7.0/cli/conf.d/20-xdebug.ini, /etc/php/7.0/cli/conf.d/20-xmlreader.ini, /etc/php/7.0/cli/conf.d/20-xmlwriter.ini, /etc/php/7.0/cli/conf.d/20-xsl.ini</additional_php_ini>
+        <phpinfo binary_type="PHP" php_cli="/usr/bin/php7.0" path_separator=":" version="7.0.8-0ubuntu0.16.04.3">
+          <additional_php_ini>/etc/php/7.0/cli/conf.d/10-mysqlnd.ini, /etc/php/7.0/cli/conf.d/10-pdo.ini, /etc/php/7.0/cli/conf.d/20-calendar.ini, /etc/php/7.0/cli/conf.d/20-ctype.ini, /etc/php/7.0/cli/conf.d/20-curl.ini, /etc/php/7.0/cli/conf.d/20-exif.ini, /etc/php/7.0/cli/conf.d/20-fileinfo.ini, /etc/php/7.0/cli/conf.d/20-ftp.ini, /etc/php/7.0/cli/conf.d/20-gd.ini, /etc/php/7.0/cli/conf.d/20-geoip.ini, /etc/php/7.0/cli/conf.d/20-gettext.ini, /etc/php/7.0/cli/conf.d/20-iconv.ini, /etc/php/7.0/cli/conf.d/20-json.ini, /etc/php/7.0/cli/conf.d/20-memcache.ini, /etc/php/7.0/cli/conf.d/20-mysqli.ini, /etc/php/7.0/cli/conf.d/20-pdo_mysql.ini, /etc/php/7.0/cli/conf.d/20-phar.ini, /etc/php/7.0/cli/conf.d/20-posix.ini, /etc/php/7.0/cli/conf.d/20-readline.ini, /etc/php/7.0/cli/conf.d/20-shmop.ini, /etc/php/7.0/cli/conf.d/20-sockets.ini, /etc/php/7.0/cli/conf.d/20-sysvmsg.ini, /etc/php/7.0/cli/conf.d/20-sysvsem.ini, /etc/php/7.0/cli/conf.d/20-sysvshm.ini, /etc/php/7.0/cli/conf.d/20-tokenizer.ini, /etc/php/7.0/cli/conf.d/20-xdebug.ini</additional_php_ini>
           <configuration_file>/etc/php/7.0/cli/php.ini</configuration_file>
           <configuration_options>
             <configuration_option name="SMTP" value="localhost" />
@@ -69,6 +69,7 @@
             <configuration_option name="filter.default" value="unsafe_raw" />
             <configuration_option name="filter.default_flags" value="" />
             <configuration_option name="from" value="" />
+            <configuration_option name="gd.jpeg_ignore_warning" value="0" />
             <configuration_option name="geoip.custom_directory" value="" />
             <configuration_option name="highlight.comment" value="#FF8000" />
             <configuration_option name="highlight.default" value="#0000BB" />
@@ -107,25 +108,6 @@
             <configuration_option name="memcache.protocol" value="ascii" />
             <configuration_option name="memcache.redundancy" value="1" />
             <configuration_option name="memcache.session_redundancy" value="2" />
-            <configuration_option name="memcached.compression_factor" value="1.3" />
-            <configuration_option name="memcached.compression_threshold" value="2000" />
-            <configuration_option name="memcached.compression_type" value="fastlz" />
-            <configuration_option name="memcached.serializer" value="php" />
-            <configuration_option name="memcached.sess_binary" value="0" />
-            <configuration_option name="memcached.sess_connect_timeout" value="1000" />
-            <configuration_option name="memcached.sess_consistent_hash" value="0" />
-            <configuration_option name="memcached.sess_lock_expire" value="0" />
-            <configuration_option name="memcached.sess_lock_max_wait" value="0" />
-            <configuration_option name="memcached.sess_lock_wait" value="150000" />
-            <configuration_option name="memcached.sess_locking" value="1" />
-            <configuration_option name="memcached.sess_number_of_replicas" value="0" />
-            <configuration_option name="memcached.sess_prefix" value="memc.sess.key." />
-            <configuration_option name="memcached.sess_randomize_replica_read" value="0" />
-            <configuration_option name="memcached.sess_remove_failed" value="0" />
-            <configuration_option name="memcached.sess_sasl_password" value="" />
-            <configuration_option name="memcached.sess_sasl_username" value="" />
-            <configuration_option name="memcached.store_retry_count" value="2" />
-            <configuration_option name="memcached.use_sasl" value="0" />
             <configuration_option name="memory_limit" value="-1" />
             <configuration_option name="mysqli.allow_local_infile" value="1" />
             <configuration_option name="mysqli.allow_persistent" value="1" />
@@ -149,37 +131,6 @@
             <configuration_option name="mysqlnd.net_read_timeout" value="31536000" />
             <configuration_option name="mysqlnd.sha256_server_public_key" value="" />
             <configuration_option name="mysqlnd.trace_alloc" value="" />
-            <configuration_option name="opcache.blacklist_filename" value="" />
-            <configuration_option name="opcache.consistency_checks" value="0" />
-            <configuration_option name="opcache.dups_fix" value="0" />
-            <configuration_option name="opcache.enable" value="1" />
-            <configuration_option name="opcache.enable_cli" value="0" />
-            <configuration_option name="opcache.enable_file_override" value="0" />
-            <configuration_option name="opcache.error_log" value="" />
-            <configuration_option name="opcache.fast_shutdown" value="0" />
-            <configuration_option name="opcache.file_cache" value="" />
-            <configuration_option name="opcache.file_cache_consistency_checks" value="1" />
-            <configuration_option name="opcache.file_cache_only" value="0" />
-            <configuration_option name="opcache.file_update_protection" value="2" />
-            <configuration_option name="opcache.force_restart_timeout" value="180" />
-            <configuration_option name="opcache.huge_code_pages" value="0" />
-            <configuration_option name="opcache.inherited_hack" value="1" />
-            <configuration_option name="opcache.interned_strings_buffer" value="4" />
-            <configuration_option name="opcache.lockfile_path" value="/tmp" />
-            <configuration_option name="opcache.log_verbosity_level" value="1" />
-            <configuration_option name="opcache.max_accelerated_files" value="2000" />
-            <configuration_option name="opcache.max_file_size" value="0" />
-            <configuration_option name="opcache.max_wasted_percentage" value="5" />
-            <configuration_option name="opcache.memory_consumption" value="64" />
-            <configuration_option name="opcache.optimization_level" value="0x7FFFBFFF" />
-            <configuration_option name="opcache.preferred_memory_model" value="" />
-            <configuration_option name="opcache.protect_memory" value="0" />
-            <configuration_option name="opcache.restrict_api" value="" />
-            <configuration_option name="opcache.revalidate_freq" value="2" />
-            <configuration_option name="opcache.revalidate_path" value="0" />
-            <configuration_option name="opcache.save_comments" value="1" />
-            <configuration_option name="opcache.use_cwd" value="1" />
-            <configuration_option name="opcache.validate_timestamps" value="1" />
             <configuration_option name="open_basedir" value="" />
             <configuration_option name="openssl.cafile" value="" />
             <configuration_option name="openssl.capath" value="" />
@@ -190,12 +141,6 @@
             <configuration_option name="pcre.jit" value="1" />
             <configuration_option name="pcre.recursion_limit" value="100000" />
             <configuration_option name="pdo_mysql.default_socket" value="/var/run/mysqld/mysqld.sock" />
-            <configuration_option name="pgsql.allow_persistent" value="1" />
-            <configuration_option name="pgsql.auto_reset_persistent" value="" />
-            <configuration_option name="pgsql.ignore_notice" value="0" />
-            <configuration_option name="pgsql.log_notice" value="0" />
-            <configuration_option name="pgsql.max_links" value="-1" />
-            <configuration_option name="pgsql.max_persistent" value="-1" />
             <configuration_option name="phar.cache_list" value="" />
             <configuration_option name="phar.readonly" value="1" />
             <configuration_option name="phar.require_hash" value="1" />
@@ -287,15 +232,15 @@
             <configuration_option name="xdebug.profiler_aggregate" value="0" />
             <configuration_option name="xdebug.profiler_append" value="0" />
             <configuration_option name="xdebug.profiler_enable" value="0" />
-            <configuration_option name="xdebug.profiler_enable_trigger" value="1" />
+            <configuration_option name="xdebug.profiler_enable_trigger" value="0" />
             <configuration_option name="xdebug.profiler_enable_trigger_value" value="" />
             <configuration_option name="xdebug.profiler_output_dir" value="/tmp" />
             <configuration_option name="xdebug.profiler_output_name" value="cachegrind.out.%p" />
             <configuration_option name="xdebug.remote_addr_header" value="" />
-            <configuration_option name="xdebug.remote_autostart" value="1" />
+            <configuration_option name="xdebug.remote_autostart" value="0" />
             <configuration_option name="xdebug.remote_connect_back" value="1" />
             <configuration_option name="xdebug.remote_cookie_expire_time" value="3600" />
-            <configuration_option name="xdebug.remote_enable" value="1" />
+            <configuration_option name="xdebug.remote_enable" value="0" />
             <configuration_option name="xdebug.remote_handler" value="dbgp" />
             <configuration_option name="xdebug.remote_host" value="localhost" />
             <configuration_option name="xdebug.remote_log" value="" />
@@ -304,7 +249,7 @@
             <configuration_option name="xdebug.scream" value="0" />
             <configuration_option name="xdebug.show_error_trace" value="0" />
             <configuration_option name="xdebug.show_exception_trace" value="0" />
-            <configuration_option name="xdebug.show_local_vars" value="1" />
+            <configuration_option name="xdebug.show_local_vars" value="0" />
             <configuration_option name="xdebug.show_mem_delta" value="0" />
             <configuration_option name="xdebug.trace_enable_trigger" value="0" />
             <configuration_option name="xdebug.trace_enable_trigger_value" value="" />
@@ -337,17 +282,15 @@
             <extension name="Phar" />
             <extension name="Reflection" />
             <extension name="SPL" />
-            <extension name="SimpleXML" />
-            <extension name="Zend OPcache" />
             <extension name="calendar" />
             <extension name="ctype" />
             <extension name="curl" />
             <extension name="date" />
-            <extension name="dom" />
             <extension name="exif" />
             <extension name="fileinfo" />
             <extension name="filter" />
             <extension name="ftp" />
+            <extension name="gd" />
             <extension name="geoip" />
             <extension name="gettext" />
             <extension name="hash" />
@@ -355,15 +298,12 @@
             <extension name="json" />
             <extension name="libxml" />
             <extension name="memcache" />
-            <extension name="memcached" />
             <extension name="mysqli" />
             <extension name="mysqlnd" />
             <extension name="openssl" />
             <extension name="pcntl" />
             <extension name="pcre" />
             <extension name="pdo_mysql" />
-            <extension name="pdo_pgsql" />
-            <extension name="pgsql" />
             <extension name="posix" />
             <extension name="readline" />
             <extension name="session" />
@@ -374,12 +314,7 @@
             <extension name="sysvsem" />
             <extension name="sysvshm" />
             <extension name="tokenizer" />
-            <extension name="wddx" />
             <extension name="xdebug" />
-            <extension name="xml" />
-            <extension name="xmlreader" />
-            <extension name="xmlwriter" />
-            <extension name="xsl" />
             <extension name="zlib" />
           </loaded_extensions>
         </phpinfo>
