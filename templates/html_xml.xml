@@ -1,0 +1,27 @@
+<templateSet group="html/xml">
+  <template name="&lt;!d" value="&lt;!DOCTYPE html&gt;&#10;&lt;html lang=&quot;en&quot;&gt;&#10;    &lt;head&gt;&#10;        &lt;meta charset=&quot;UTF-8&quot;&gt;&#10;        &lt;title&gt;&lt;/title&gt;&#10;    &lt;/head&gt;&#10;    &lt;body&gt;&#10;        $END$&#10;    &lt;/body&gt;&#10;&lt;/html&gt;&#10;" shortcut="SPACE" description="New HTML document" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="scri" value="&lt;script type=&quot;text/javascript&quot;&gt;&#10;    $END$&#10;&lt;/script&gt;" shortcut="SPACE" description="Inline Javascript" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="scrs" value="&lt;script type=&quot;text/javascript&quot; src=&quot;$END$&quot;&gt;&lt;/script&gt;" shortcut="SPACE" description="External Javascript" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="metah" value="&lt;meta http-equiv=&quot;$END$&quot; content=&quot;&quot;&gt;" shortcut="SPACE" description="Meta (HTTP Headers)" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="metan" value="&lt;meta name=&quot;$END$&quot; content=&quot;&quot;&gt;" shortcut="SPACE" description="Meta (SEO)" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+</templateSet>
