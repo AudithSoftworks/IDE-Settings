@@ -17,6 +17,7 @@
       <mapping pattern=".env.dev.example" type="PLAIN_TEXT" />
       <mapping ext="blade" type="PLAIN_TEXT" />
       <mapping ext="out" type="PLAIN_TEXT" />
+      <mapping ext="scel" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
