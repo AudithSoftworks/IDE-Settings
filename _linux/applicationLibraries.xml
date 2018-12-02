@@ -1,0 +1,15 @@
+<application>
+  <component name="libraryTable">
+    <library name="tooltips" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_www.elderscrollsbote.de_esodb_tooltips.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_www.elderscrollsbote.de_esodb_tooltips.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>
