@@ -22,6 +22,7 @@
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".browserslist" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
+      <mapping ext="yml\" type="PLAIN_TEXT" />
       <mapping ext="out" type="PLAIN_TEXT" />
       <mapping ext="enc" type="PLAIN_TEXT" />
       <mapping ext="blade" type="PLAIN_TEXT" />
