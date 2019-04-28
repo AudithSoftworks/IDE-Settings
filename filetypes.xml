@@ -6,6 +6,7 @@
       <mapping ext="ttf" type="Native" />
       <mapping pattern="deploy_rsa" type="PLAIN_TEXT" />
       <mapping pattern="asd" type="PLAIN_TEXT" />
+      <mapping pattern="bash_profile" type="PLAIN_TEXT" />
       <mapping pattern=".selected_editor" type="PLAIN_TEXT" />
       <mapping pattern=".env.live.example" type="PLAIN_TEXT" />
       <mapping pattern="_breadcrumb.scss" type="PLAIN_TEXT" />
