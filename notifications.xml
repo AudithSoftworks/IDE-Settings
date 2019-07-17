@@ -1,0 +1,6 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Docker: Dockerfile detection" displayType="NONE" shouldLog="false" />
+    <notification groupId="Upgrade Subscription Renewal" displayType="NONE" shouldLog="false" />
+  </component>
+</application>
