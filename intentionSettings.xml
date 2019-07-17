@@ -1,5 +1,0 @@
-<application>
-  <component name="IntentionManagerSettings">
-    <ignoreAction name="CSS/Extract ruleset" />
-  </component>
-</application>
