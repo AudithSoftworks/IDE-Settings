@@ -15,7 +15,7 @@
     <mask>*.mxml</mask>
     <mask>*.yaml</mask>
     <mask>*.scss</mask>
-    <mask>*.php</mask>
     <mask>*.js</mask>
+    <mask>*.php</mask>
   </component>
 </application>
