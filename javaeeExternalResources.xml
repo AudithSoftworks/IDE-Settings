@@ -1,0 +1,6 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="https://www.doctrine-project.org/schemas/odm/doctrine-mongo-mapping" location="$USER_HOME$/.PhpStorm2019.2/system/extResources/d29b48de_doctrine-mongo-mapping.xsd" />
+    <resource url="https://www.doctrine-project.org/schemas/odm/doctrine-mongo-mapping.xsd" location="$USER_HOME$/.PhpStorm2019.2/system/extResources/d29b48de_doctrine-mongo-mapping.xsd" />
+  </component>
+</application>
