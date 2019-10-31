@@ -2,6 +2,5 @@
   <component name="ExternalResourceManagerImpl">
     <resource url="http://schema.phpunit.de/8.0/phpunit.xsd" location="$USER_HOME$/.PhpStorm2019.1/system/extResources/d6ca1781_phpunit.xsd" />
     <resource url="http://schema.phpunit.de/8.2/phpunit.xsd" location="$USER_HOME$/.PhpStorm2019.1/system/extResources/b3d02483_phpunit.xsd" />
-    <resource url="https://www.doctrine-project.org/schemas/odm/doctrine-mongo-mapping.xsd" location="$USER_HOME$/.PhpStorm2019.2/system/extResources/d29b48de_doctrine-mongo-mapping.xsd" />
   </component>
 </application>
