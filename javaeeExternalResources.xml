@@ -1,6 +1,5 @@
 <application>
   <component name="ExternalResourceManagerImpl">
-    <resource url="https://www.doctrine-project.org/schemas/odm/doctrine-mongo-mapping" location="$USER_HOME$/Projects/user-bundle/vendor/doctrine/mongodb-odm/doctrine-mongo-mapping.xsd" />
-    <resource url="https://www.doctrine-project.org/schemas/odm/doctrine-mongo-mapping.xsd" location="$USER_HOME$/Projects/user-bundle/vendor/doctrine/mongodb-odm/doctrine-mongo-mapping.xsd" />
+    <resource url="http://www.doctrine-project.org/schemas/odm/doctrine-mongo-mapping" location="$USER_HOME$/Projects/user-bundle/vendor/doctrine/mongodb-odm/doctrine-mongo-mapping.xsd" />
   </component>
 </application>
