@@ -10,11 +10,11 @@
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
-    <mask>*.yaml</mask>
     <mask>*.yml</mask>
     <mask>*.scss</mask>
     <mask>*.js</mask>
     <mask>*.php</mask>
     <mask>*.xml</mask>
+    <mask>*.yaml</mask>
   </component>
 </application>
