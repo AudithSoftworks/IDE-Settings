@@ -26,4 +26,7 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
+  <action id="ZoomCurrentWindow">
+    <keyboard-shortcut first-keystroke="alt add" />
+  </action>
 </keymap>

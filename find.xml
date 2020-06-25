@@ -6,15 +6,15 @@
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
-    <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
-    <mask>*.yaml</mask>
     <mask>*.yml</mask>
+    <mask>*.yaml</mask>
+    <mask>*.xml</mask>
     <mask>*.scss</mask>
-    <mask>*.js</mask>
     <mask>*.php</mask>
+    <mask>*.js</mask>
   </component>
 </application>
