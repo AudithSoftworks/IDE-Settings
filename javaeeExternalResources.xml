@@ -7,6 +7,7 @@
     <resource url="http://schema.phpunit.de/8.5/phpunit.xsd" location="$USER_HOME$/.cache/JetBrains/PhpStorm2020.1/extResources/7f593806_phpunit.xsd" />
     <resource url="http://schema.phpunit.de/9.2/phpunit.xsd" location="$USER_HOME$/.cache/JetBrains/PhpStorm2020.1/extResources/dab8ec4_phpunit.xsd" />
     <resource url="http://schema.phpunit.de/9.3/phpunit.xsd" location="$USER_HOME$/.cache/JetBrains/PhpStorm2020.2/extResources/fc2e9545_phpunit.xsd" />
+    <resource url="http://schema.phpunit.de/9.4/phpunit.xsd" location="$USER_HOME$/.cache/JetBrains/PhpStorm2020.2/extResources/eab19bc6_phpunit.xsd" />
     <resource url="https://schema.phpunit.de/9.3/phpunit.xsd" location="$USER_HOME$/.cache/JetBrains/PhpStorm2020.2/extResources/e8546028_phpunit.xsd" />
   </component>
 </application>
